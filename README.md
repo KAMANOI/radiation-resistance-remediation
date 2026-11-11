@@ -248,3 +248,6 @@ The B-first, A-second sequencing is rational from ethical, financial, and techni
 *This paper presents theoretical considerations and a research proposal; it does not involve implementation.*
 
 *© 2026 HIROKI KAMANOI — Released under CC BY 4.0*
+
+---
+Related research and services by HDR (Human Driven Reality): https://hdr-ai.com/#research
